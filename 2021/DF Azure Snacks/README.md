@@ -44,6 +44,7 @@ Work towards Microsoft certifications using free training resources on Microsoft
 - [Understand the different Microsoft certification paths](https://aka.ms/certificationjourney)
 - [Free Microsoft Learn learning paths](https://docs.microsoft.com/learn/?ocid=AID3023451&WT.mc_id=modinfra-22849-salean)
 - [Glasgow Azure User Group](https://www.gaug.co.uk)
+- [Architect and optimize your internet traffic with Azure routing preference](https://azure.microsoft.com/blog/architect-and-optimize-your-internet-traffic-with-azure-routing-preference/?ocid=AID3023451&WT.mc_id=modinfra-22849-salean)
 
 ## Training Days
 Attend free training day run by Microsoft to help learn and ask questions: 
