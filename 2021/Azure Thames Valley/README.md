@@ -10,7 +10,6 @@ Find out more about Windows Admin Centre
 - [Documentation](https://docs.microsoft.com/en-gb/windows-server/manage/windows-admin-center/overview?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
 - [Download Windows Admin Centre](https://docs.microsoft.com/en-gb/windows-server/manage/windows-admin-center/overview?ocid=AID3023451&WT.mc_id=modinfra-24780-saleann)
 
-
 ## Azure Arc
 - [Documentation](https://azure.microsoft.com/services/azure-arc/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
 - [Azure Unblogged - Azure Arc Jumpstart Project](https://channel9.msdn.com/Shows/IT-Ops-Talk/Azure-Unblogged-Azure-Arc-Jumpstart-Project?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
@@ -27,7 +26,17 @@ Find out more about Windows Admin Centre
 - [Overview of Azure Policy](https://docs.microsoft.com/azure/governance/policy/overview?WT.mc_id=modinfra-14802-salean)
 - [Built-in policy definitions for Azure Arc enabled servers - Azure Arc](https://docs.microsoft.com/azure/azure-arc/servers/policy-reference?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
 - [Azure Unblogged - chatting to the product team about the product and roadmap](https://channel9.msdn.com/Shows/IT-Ops-Talk/Azure-Unblogged-Azure-Policy?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
+- 
+## Azure Application Gateway
+- [Microsoft Learn: Load balancer your web site traffic with Application Gateway](https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/)
+- [Application Gateway Documentation](https://docs.microsoft.com/azure/application-gateway/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
 
+## Azure Traffic Manager
+- [Microsoft Learn: Enhance your service availability and data locality by using Azure Traffic Manager](https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
+- [Azure Traffic Manager Documentation](https://docs.microsoft.com/azure/traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
+
+## Azure Front Door
+- [Azure Front Door Documentation](https://docs.microsoft.com/azure/frontdoor/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
 ## Patterns and Practices
 Learn from others experience of adoption of cloud within their IT strategy:
 - [Azure Architecture Center](https://docs.microsoft.com/en-gb/azure/architecture/?ocid=AID3023451&WT.mc_id=modinfra-24780-salean)
