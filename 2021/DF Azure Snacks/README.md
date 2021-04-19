@@ -1,4 +1,4 @@
-### Learn it all
+# Learn it all
 
 Azure is vast and there is a lot of things that you as an individual need to think about as you embark on our Azure learning journey and from an organisation stand point there is a lot to think about as well.  Below is some information and resources to help you on that journey. 
 
