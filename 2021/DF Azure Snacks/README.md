@@ -1,4 +1,4 @@
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/M78vgG3NFe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+[![Scaling with Azure](https://techielass.azureedge.net/images/Scaling with Azure.jpg)](http://www.youtube.com/watch?v=M78vgG3NFe0 "Scaling with Azure")
 
 # Learn it all
 
