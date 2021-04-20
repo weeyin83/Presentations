@@ -1,3 +1,5 @@
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/M78vgG3NFe0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 # Learn it all
 
 Azure is vast and there is a lot of things that you as an individual need to think about as you embark on our Azure learning journey and from an organisation stand point there is a lot to think about as well.  Below is some information and resources to help you on that journey. 
