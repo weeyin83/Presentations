@@ -1,6 +1,6 @@
 # Session Recording
 
-![YouTube Video Recording](https://techielass.azureedge.net/images/scalingwithazure.jpg)](https://www.youtube.com/watch?v=M78vgG3NFe0)
+![YouTube Video Recording](https://techielass.azureedge.net/images/scalingwithazure.jpg)(https://www.youtube.com/watch?v=M78vgG3NFe0)
 
 ## Learn it all
 
