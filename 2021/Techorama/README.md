@@ -6,31 +6,33 @@ You can sign up to an Azure Subscription with the link below. You will get $200 
 - [Try Azure for Free](https://aka.ms/Try4Free)
 
 ## Azure Traffic Manager
+Azure Traffic Manager is a DNS load balancer that can be used to route traffic to different endpoints within Azure or outwith it.
+
 - [Microsoft Learn: Enhance your service availability and data locality by using Azure Traffic Manager](https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Azure Traffic Manager Documentation](https://docs.microsoft.com/azure/traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 
 ## Windows Admin Center
+Windows Admin Centre is a remote management solution for your Windows Servers regards of what those servers are or where they are. It can help you manage you servers and Azure integrations from one place, and make things more efficient. 
 - [Windows Admin Center Documentation](https://www.microsoft.com/windows-server/windows-admin-center?WT.mc_id=modinfra-27241-salean)
 - [Microsoft Learn: Window Server admin tools](https://docs.microsoft.com/learn/modules/describe-windows-server-administration-tools/?WT.mc_id=modinfra-27241-salean)
 
 ## Azure Arc
+Azure Arc helps you extend Azure services to non Azure servers.
 - [Azure Arc Documentation](https://azure.microsoft.com/en-gb/services/azure-arc/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Microsoft Learn: Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/learn/paths/manage-hybrid-infrastructure-with-azure-arc/?WT.mc_id=modinfra-27241-salean)
-- 
-## Azure Backup
-- [Azure Backup Documentation](https://docs.microsoft.com/azure/backup/?WT.mc_id=modinfra-27241-salean)
-- [Microsoft Learn: monitor and backup resources](https://docs.microsoft.com/learn/paths/azure-administrator-monitor-backup-resources/?WT.mc_id=modinfra-27241-salean)
-- [Microsoft Learn: architect migration, business continuity and disaster recovery in Azure](https://docs.microsoft.com/learn/paths/architect-migration-bcdr/?WT.mc_id=modinfra-27241-salean)
 
 ## Azure Update Management
+Azure Update Management can help you patch your Windows and Linux servers and automate the process so that you stay up to date and consistent. 
 - [Microsoft Learn: Manage updates](https://docs.microsoft.com/learn/modules/manage-azure-updates/?WT.mc_id=modinfra-27241-salean)
 - [Azure Unblogged an interview with the product team](https://youtu.be/OJcH_AZZmZY)
 
-## Azure Security Centre
-- [Microsoft Learn: Manage security operations in Azure](https://docs.microsoft.com/learn/paths/manage-security-operations/?WT.mc_id=modinfra-27241-salean)
-- [Azure Security Centre Labs from the product group](https://github.com/Azure/Azure-Security-Center/tree/master/Labs)
+## Azure Stack HCI
+The new Azure Stack HCI is a purpose built offering, a new operating system in itself, delivered as an Azure service but still running on existing or new Hardware from our OEM partners in your chosen environments.
+- [Azure Stack HCI documentation](https://azure.microsoft.com/products/azure-stack/hci/?WT.mc_id=modinfra-27241-salean)
+- [Product tour of the new Azure Stack HCI using Windows Admin Center](https://youtu.be/LxK0hljZkjE)
 
 ## Pricing
+Understanding how Azure pricing works can be a key learning skill for those designing Azure infrastructure.
 - [Azure Pricing](https://azure.microsoft.com/pricing/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 
