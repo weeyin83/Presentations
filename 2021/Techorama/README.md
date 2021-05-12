@@ -7,7 +7,6 @@ You can sign up to an Azure Subscription with the link below. You will get $200 
 
 ## Azure Traffic Manager
 Azure Traffic Manager is a DNS load balancer that can be used to route traffic to different endpoints within Azure or outwith it.
-
 - [Microsoft Learn: Enhance your service availability and data locality by using Azure Traffic Manager](https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Azure Traffic Manager Documentation](https://docs.microsoft.com/azure/traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 
@@ -22,7 +21,7 @@ Azure Arc helps you extend Azure services to non Azure servers.
 - [Microsoft Learn: Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/learn/paths/manage-hybrid-infrastructure-with-azure-arc/?WT.mc_id=modinfra-27241-salean)
 
 ## Azure Update Management
-Azure Update Management can help you patch your Windows and Linux servers and automate the process so that you stay up to date and consistent. 
+Azure Update Management can help you patch your Windows and Linux servers and automate the process so that you stay up to date and consistent.
 - [Microsoft Learn: Manage updates](https://docs.microsoft.com/learn/modules/manage-azure-updates/?WT.mc_id=modinfra-27241-salean)
 - [Azure Unblogged an interview with the product team](https://youtu.be/OJcH_AZZmZY)
 
