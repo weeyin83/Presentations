@@ -20,6 +20,11 @@ Azure Arc helps you extend Azure services to non Azure servers.
 - [Azure Arc Documentation](https://azure.microsoft.com/en-gb/services/azure-arc/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Microsoft Learn: Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/learn/paths/manage-hybrid-infrastructure-with-azure-arc/?WT.mc_id=modinfra-27241-salean)
 
+## Azure File Sync
+Azure File Sync enables centralizing your organization's file shares in Azure Files, while keeping the flexibility, performance, and compatibility of a Windows file server. 
+- [Extend your on-premises file share capacity using Azure File Sync](https://docs.microsoft.com/learn/modules/extend-share-capacity-with-azure-file-sync/?WT.mc_id=modinfra-27241-salean)
+- [Cloud Tiering](https://docs.microsoft.com/azure/storage/file-sync/file-sync-cloud-tiering-overview?WT.mc_id=modinfra-27241-salean)
+
 ## Azure Update Management
 Azure Update Management can help you patch your Windows and Linux servers and automate the process so that you stay up to date and consistent.
 - [Microsoft Learn: Manage updates](https://docs.microsoft.com/learn/modules/manage-azure-updates/?WT.mc_id=modinfra-27241-salean)
