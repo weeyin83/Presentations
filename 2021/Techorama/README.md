@@ -1,5 +1,4 @@
 # Learn it all
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Azure is vast and there is a lot of things that you as an individual need to think about as you embark on our Azure learning journey and from an organisation stand point there is a lot to think about as well.  Below is some information and resources to help you on that journey. 
 
@@ -17,6 +16,7 @@ Windows Admin Centre is a remote management solution for your Windows Servers re
 - [Microsoft Learn: Window Server admin tools](https://docs.microsoft.com/learn/modules/describe-windows-server-administration-tools/?WT.mc_id=modinfra-27241-salean)
 
 ## Azure Arc
+<img src="https://github.com/weeyin83/Presentations/blob/master/2021/Techorama/images/arc.png" width="30px">
 Azure Arc helps you extend Azure services to non Azure servers.
 - [Azure Arc Documentation](https://azure.microsoft.com/en-gb/services/azure-arc/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Microsoft Learn: Manage hybrid infrastructure with Azure Arc](https://docs.microsoft.com/learn/paths/manage-hybrid-infrastructure-with-azure-arc/?WT.mc_id=modinfra-27241-salean)
