@@ -1,4 +1,4 @@
-# Learn it all
+# <img src="https://github.com/weeyin83/Presentations/blob/master/2021/Techorama/images/wave.gif" width="30px"> Learn it all
 
 Azure is vast and there is a lot of things that you as an individual need to think about as you embark on our Azure learning journey and from an organisation stand point there is a lot to think about as well.  Below is some information and resources to help you on that journey. 
 
@@ -10,7 +10,7 @@ Azure Traffic Manager is a DNS load balancer that can be used to route traffic t
 - [Microsoft Learn: Enhance your service availability and data locality by using Azure Traffic Manager](https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 - [Azure Traffic Manager Documentation](https://docs.microsoft.com/azure/traffic-manager/?ocid=AID3023451&WT.mc_id=modinfra-27241-salean)
 
-## Windows Admin Center
+## <img src="https://github.com/weeyin83/Presentations/blob/master/2021/Techorama/images/wac.jpg" width="30px"> Windows Admin Center
 Windows Admin Centre is a remote management solution for your Windows Servers regards of what those servers are or where they are. It can help you manage you servers and Azure integrations from one place, and make things more efficient. 
 - [Windows Admin Center Documentation](https://www.microsoft.com/windows-server/windows-admin-center?WT.mc_id=modinfra-27241-salean)
 - [Microsoft Learn: Window Server admin tools](https://docs.microsoft.com/learn/modules/describe-windows-server-administration-tools/?WT.mc_id=modinfra-27241-salean)
@@ -57,7 +57,7 @@ Attend free training day run by Microsoft to help learn and ask questions:
 - [Microsoft UK Training Days](https://www.microsoft.com/en-gb/events/training-days/)
 - [Microsoft Europe Training Days](https://www.microsoft.com/en-ie/training-days)
 
-## Contact Information
+## <img src="https://github.com/weeyin83/Presentations/blob/master/2021/Techorama/images/contact.png" width="30px"> Contact Information
 
 Let's stay in touch! 
 
