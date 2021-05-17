@@ -1,4 +1,5 @@
 # Learn it all
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Azure is vast and there is a lot of things that you as an individual need to think about as you embark on our Azure learning journey and from an organisation stand point there is a lot to think about as well.  Below is some information and resources to help you on that journey. 
 
