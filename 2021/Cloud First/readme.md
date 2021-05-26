@@ -8,20 +8,20 @@ You can sign up to an Azure Subscription with the link below. You will get $200 
 
 ## <img src="https://github.com/weeyin83/Presentations/blob/master/images/costs.svg" width="30px"> Pricing 
 Understanding how Azure pricing works can be a key learning skill for those designing Azure infrastructure.
-- [Azure Pricing](https://azure.microsoft.com/pricing/?ocid=AID3023451&WT.mc_id=modinfra-29536-salean)
-- [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator/?ocid=AID3023451&WT.mc_id=modinfra-29536-salean)
+- [Azure Pricing](https://azure.microsoft.com/pricing/?ocid=AID3023451&WT.mc_id=modinfra-29053-salean)
+- [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator/?ocid=AID3023451&WT.mc_id=modinfra-29053-salean)
 
 ## Patterns and Practices
 Learn from others experience of adoption of cloud within their IT strategy:
 - [Azure Architecture Center](https://aka.ms/azure-architecture-center)
-- [Cloud Adoption Framework](https://docs.microsoft.com/azure/cloud-adoption-framework/?ocid=AID3023451&WT.mc_id=modinfra-29536-salean)
+- [Cloud Adoption Framework](https://docs.microsoft.com/azure/cloud-adoption-framework/?ocid=AID3023451&WT.mc_id=modinfra-29053-salean)
 
 ## <img src="https://github.com/weeyin83/Presentations/blob/master/images/learn.svg" width="30px"> Learning Resources & Certifications 
 Work towards Microsoft certifications using free training resources on Microsoft Learn:
 - [Understand the different Microsoft certification paths](https://aka.ms/certificationjourney)
-- [Free Microsoft Learn learning paths](https://docs.microsoft.com/learn/?ocid=AID3023451&WT.mc_id=modinfra-29536-salean)
+- [Free Microsoft Learn learning paths](https://docs.microsoft.com/learn/?ocid=AID3023451&WT.mc_id=modinfra-29053-salean)
 - [Glasgow Azure User Group](https://www.gaug.co.uk)
-- [Architect and optimize your internet traffic with Azure routing preference](https://azure.microsoft.com/blog/architect-and-optimize-your-internet-traffic-with-azure-routing-preference/?ocid=AID3023451&WT.mc_id=modinfra-29536-salean)
+- [Architect and optimize your internet traffic with Azure routing preference](https://azure.microsoft.com/blog/architect-and-optimize-your-internet-traffic-with-azure-routing-preference/?ocid=AID3023451&WT.mc_id=modinfra-29053-salean)
 
 ## Training Days
 Attend free training day run by Microsoft to help learn and ask questions: 
