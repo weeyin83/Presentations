@@ -5,7 +5,13 @@ Azure is vast and there is a lot of things that you as an individual need to thi
 You can sign up to an Azure Subscription with the link below. You will get $200 (US Dollars) to explore Azure for 30 days and then have access to a number of free services for 12 months. 
 - [Try Azure for Free](https://aka.ms/Try4Free)
 
-## <img src="https://github.com/weeyin83/Presentations/blob/master/images/azuremigrateicon.png" width="30px"> Azure Migrate 
+## <img src="https://github.com/weeyin83/Presentations/blob/master/images/azuremigrateicon.png" width="30px"> Azure Migrate
+- [What's new with Azure Migrate](https://docs.microsoft.com//azure/migrate/whats-new?WT.mc_id=modinfra-29536-salean)
+- [VMware discovery support](https://docs.microsoft.com/azure/migrate/migrate-support-matrix-vmware?WT.mc_id=modinfra-29536-salean)
+- [Hyper-V discovery support](https://docs.microsoft.com/azure/migrate/migrate-support-matrix-hyper-v?WT.mc_id=modinfra-29536-salean)
+- [Physical server discovery support](https://docs.microsoft.com/azure/migrate/migrate-support-matrix-physical?WT.mc_id=modinfra-29536-salean)
+- [Assessment best practices](https://docs.microsoft.com/azure/migrate/best-practices-assessment?WT.mc_id=modinfra-29536-salean)
+- [Replicate data over ExpressRoute](https://docs.microsoft.com/azure/migrate/replicate-using-expressroute?WT.mc_id=modinfra-29536-salean)
 
 
 ## <img src="https://github.com/weeyin83/Presentations/blob/master/images/costs.svg" width="30px"> Pricing 
