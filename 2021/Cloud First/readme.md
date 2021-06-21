@@ -6,7 +6,7 @@ You can sign up to an Azure Subscription with the link below. You will get $200 
 - [Try Azure for Free](https://aka.ms/Try4Free)
 
 
-## <img src="https://github.com/weeyin83/Presentations/blob/master/images/AzureHybrid.svg" width="30px">AzureHybrid.svgHybrid with Microsoft Azure
+## <img src="https://github.com/weeyin83/Presentations/blob/master/images/AzureHybrid.svg" width="30px"> Hybrid with Microsoft Azure
 - [Introduction to the hybrid and multicloud scenario](https://docs.microsoft.com/azure/cloud-adoption-framework/scenarios/hybrid/scenario-overview?WT.mc_id=modinfra-29053-salean)
 - [Hybrid architectures](https://docs.microsoft.com/azure/architecture/browse/?azure_categories=hybrid&bc=%2Fazure%2Fcloud-adoption-framework%2F_bread%2Ftoc.json&toc=%2Fazure%2Fcloud-adoption-framework%2Fscenarios%2Fhybrid%2Ftoc.json&WT.mc_id=modinfra-29053-salean)
 
