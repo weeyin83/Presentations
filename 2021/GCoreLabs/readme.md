@@ -5,6 +5,11 @@ Azure is vast and there is a lot of things that you as an individual need to thi
 You can sign up to an Azure Subscription with the link below. You will get $200 (US Dollars) to explore Azure for 30 days and then have access to a number of free services for 12 months. 
 - [Try Azure for Free](https://aka.ms/Try4Free)
 
+## Microsoft Case Studies
+- [Finanz Informatik GmbH & Co. KG](https://customers.microsoft.com/story/855300-finanz-informatik-azure-github-en?WT.mc_id=modinfra-30993-salean)
+- [Canadian Tires](https://customers.microsoft.com/story/1358863609258391846-canadian-tire-retailers-teams-canada?WT.mc_id=modinfra-30993-salean)
+- [Base2](https://customers.microsoft.com/story/1384764146375879086-base2-partner-professional-services-azure-en-new-zealand?WT.mc_id=modinfra-30993-salean)
+
 ## Training Days
 Attend free training day run by Microsoft to help learn and ask questions: 
 - [Microsoft UK Training Days](https://www.microsoft.com/en-gb/events/training-days/)
