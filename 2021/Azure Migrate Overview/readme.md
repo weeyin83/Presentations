@@ -5,6 +5,10 @@ Azure is vast and there is a lot of things that you as an individual need to thi
 You can sign up to an Azure Subscription with the link below. You will get $200 (US Dollars) to explore Azure for 30 days and then have access to a number of free services for 12 months. 
 - [Try Azure for Free](https://aka.ms/Try4Free)
 
+## Azure Migrate
+- [Learning Path](https://aka.ms/AzMigLearn)
+- [Azure Unblogged: Azure Migrate](https://youtu.be/a29lXqpXgRk)
+
 
 ## Training Days
 Attend free training day run by Microsoft to help learn and ask questions: 
