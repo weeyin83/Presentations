@@ -5,10 +5,9 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 You can find the OctoPetShop source code [here](https://www.github.com/octopussamples/octopetshop). 
 
-The GitHub Actions workflow that you saw Damian build can be found [here](https://raw.githubusercontent.com/DamovisaInc/SarahOctoPet/main/.github/workflows/main.yml) or a copy is [below](#github-action-workflow. 
+The GitHub Actions workflow that you saw Damian build can be found [here](https://raw.githubusercontent.com/DamovisaInc/SarahOctoPet/main/.github/workflows/main.yml) or a copy is [below](#github-action-workflow).
 
-
-
+If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.ocotpus.app/app#/Spaces-282).  You will have read access to this environment to browse around. 
 
 ## GitHub Actions
 - [GitHub Action Pricing Information](https://github.com/features/actions#pricing-details)
