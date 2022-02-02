@@ -10,11 +10,17 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 🐙 If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-282).  You will have read access to this environment to browse around. 
 
 ## GitHub Actions ✨
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Action Pricing Information](https://github.com/features/actions#pricing-details)
+- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
+- [GitHub YouTube Channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
 
 ## Octopus Deploy 🐙
-
+- [Start a trial with Octopus Deploy](https://octopus.com/start)
+- [GitHub Action Workflow Generator](https://production.githubactionworkflows.com/index.html)
+- [GitHub Actions Documentation](https://octopus.com/docs/packaging-applications/build-servers/github-actions)
+- [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
 
 ## Contact Information 👋
 
