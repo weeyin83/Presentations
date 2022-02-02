@@ -20,6 +20,6 @@ Let's stay in touch!
     - [Sarah Lean](https://in.linkedin.com/in/sazlean)
 - Connect with Damian on Twitter
     - Damian Brady - [@Damovisa](https://twitter.com/damovisa)
-- Connect with Sarah on LinkedIn
-    - [Sarah Lean](https://www.linkedin.com/in/damianbrady/)
+- Connect with damian on LinkedIn
+    - [Damian Brady](https://www.linkedin.com/in/damianbrady/)
 
