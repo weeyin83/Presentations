@@ -9,7 +9,9 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start)
+- [From Zero to Octopus hero - part 1](https://octopus.com/blog/zero-to-octopus-hero-part-1)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
+- [Free Tools from Octopus Deploy](https://octopus.com/freetools)
 
 ## Contact Information 👋
 
