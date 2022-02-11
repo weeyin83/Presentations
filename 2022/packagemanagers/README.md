@@ -12,6 +12,10 @@ During my session I mentioned a bunch of resources, below is a catalogue of them
 - [Install Chocolatey](https://chocolatey.org/install)
 - [Rebuilding my laptop with Chocolatey](https://www.techielass.com/rebuilding-my-laptop/)
 
+## Glasgow Azure User Group
+- [Join us for a meetup](https://www.eventbrite.co.uk/o/glasgow-azure-user-group-13843919802)
+- [Website](https://www.gaug.co.uk)
+
 
 ## Contact Information 👋
 
