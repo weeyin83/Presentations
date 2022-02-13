@@ -7,6 +7,7 @@ During my session I mentioned a bunch of resources, below is a catalogue of them
 - [Windows Package Manager Source](https://github.com/microsoft/winget-cli)
 - [Windows Package Manager Package Repository](https://github.com/microsoft/winget-pkgs)
 - [Windows Package Manager blogs](https://www.techielass.com/tag/winget/)
+- [Windows Package Manager roadmap](https://github.com/microsoft/winget-cli/blob/master/doc/windows-package-manager-release-roadmap.md)
 
 ## Chocolatey
 - [Install Chocolatey](https://chocolatey.org/install)
