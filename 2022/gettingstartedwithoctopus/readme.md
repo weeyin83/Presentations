@@ -11,7 +11,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start)
-- [Join our Slack community](https://www.octopus.com/slack) ![image](https://user-images.githubusercontent.com/13692824/154135826-b149bef1-e05d-4b42-9856-32b399f3ce7e.png)
+- [Join our Slack community](https://www.octopus.com/slack) 
 - [From Zero to Octopus hero - part 1](https://octopus.com/blog/zero-to-octopus-hero-part-1)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
 - [Free Tools from Octopus Deploy](https://octopus.com/freetools)
