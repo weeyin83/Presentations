@@ -1,6 +1,6 @@
 # Presentations
 
-My slide decks and notes from my presentations over the years. 
+Within this respository you will find resources and presentation slide decks from talks/sessions I have given at user groups and conferences over the years. 
 
 ## Credits
 
