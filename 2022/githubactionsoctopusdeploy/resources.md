@@ -16,6 +16,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 - [GitHub YouTube Channel](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 - [Reusing GitHub Action workflows](https://docs.github.com/actions/using-workflows/reusing-workflows)
 - [Enforcing policies for GitHub Actions in your enterprise](https://docs.github.com/en/enterprise-server@3.3/admin/policies/enforcing-policies-for-your-enterprise/enforcing-policies-for-github-actions-in-your-enterprise#allowing-select-actions-to-run)
+- [DevOps Pipelines versus GitHub Actions](https://docs.microsoft.com/dotnet/architecture/devops-for-aspnet-developers/actions-vs-pipelines)
 
 
 ## Octopus Deploy 🐙
