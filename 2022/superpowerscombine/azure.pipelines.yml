@@ -108,9 +108,10 @@ steps:
     OutputPath: '$(Build.SourcesDirectory)\output'
 
 - task: OctopusMetadata@4
+  displayName: 'Collect metadata'
   inputs:
         OctoConnectedServiceName: 'OctoSuperPowers'
-        Space: 'Spaces-342'
+        Space: $(OctopusSpace)
         PackageId: |
           OctoPetshop.ProductService
           OctoPetShop.Web
@@ -122,16 +123,22 @@ steps:
 - task: octopusdeploy.octopus-deploy-build-release-tasks.octopus-push.OctopusPush@4
   displayName: 'Push Packages to Octopus'
   inputs:
-    OctoConnectedServiceName: OctoSuperPowers
-    Space: 'Spaces-342'
+    OctoConnectedServiceName: $(OctopusServer)
+    Space: $(OctopusSpace)
     Package: '$(Build.SourcesDirectory)/output/*.zip'
 
 - task: OctopusCreateRelease@4
+  displayName: 'Create a release within Octopus Deploy'
   inputs:
-    OctoConnectedServiceName: 'OctoSuperPowers'
-    Space: 'Spaces-342'
-    ProjectGroup: 'ProjectGroups-442'
-    ProjectName: 'Projects-3462'
-    Channel: 'Channels-3442'
+    OctoConnectedServiceName: $(OctopusServer)
+    Space: $(OctopusSpace)
+    ProjectGroup: $(OctopusProjectGroup)
+    ProjectName: $(OctopusProject)
+    Channel: $(OctopusChannel)
     ChangesetCommentReleaseNotes: true
     WorkItemReleaseNotes: true
+
+
+
+
+
