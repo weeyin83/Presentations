@@ -15,7 +15,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 - [From Zero to Octopus hero - blog series](https://octopus.com/blog/zero-to-octopus-hero-part-1)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
 - [Free Tools from Octopus Deploy](https://octopus.com/freetools)
-- 
+- [Trigger an Octopus RunBook with an Elgato Streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_source=superpowerstalk&utm_medium=github&utm_campaign=superpowerstalkresources&utm_id=elgatooctopus)
 
 ## Azure
 - [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004737)
