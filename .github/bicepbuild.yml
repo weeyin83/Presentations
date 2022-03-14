@@ -3,7 +3,7 @@ name: StorageBicepTemplate
 on:
   workflow_dispatch:
   paths:
-    - Bicep-Storage-Template
+    - 2022/Bicep-Storage-Template
 
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
