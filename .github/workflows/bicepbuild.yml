@@ -9,7 +9,7 @@ jobs:
   # This workflow contains a single job called "Bicep Build"
   BicepBuild:
     # The type of runner that the job will run on
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
     # This first step takes the code within the Repo and pulls it into the workspace
     - uses: actions/checkout@v2
