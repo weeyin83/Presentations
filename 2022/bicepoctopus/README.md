@@ -14,11 +14,16 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 - [From Zero to Octopus hero - blog series](https://octopus.com/blog/zero-to-octopus-hero-part-1)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
 - [Free Tools from Octopus Deploy](https://octopus.com/freetools)
-- [Trigger an Octopus RunBook with an Elgato Streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_source=superpowerstalk&utm_medium=github&utm_campaign=superpowerstalkresources&utm_id=elgatooctopus)
+- [Trigger an Octopus RunBook with an Elgato Streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_source=superpowerstalk&utm_medium=github&utm_campaign=biceptalk&utm_id=elgatooctopus)
 
-## Azure
+## Azure ☁️
 - [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004737)
 - [Start an Azure DevOps trial](https://azure.microsoft.com/services/devops/?WT.mc_id=AZ-MVP-5004737)
+
+## Azure Bicep 💪
+- View equivalent JSON and BIcep files side by side - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+- [MS Learn - Introduction to Infrastructure as code using Bicep](https://docs.microsoft.com/learn/modules/introduction-to-infrastructure-as-code-using-bicep/?WT.mc_id=AZ-MVP-5004737)
+- [Azure Bicep roadmap](https://github.com/Azure/bicep/projects?query=is%3Aopen)
 
 ## Contact Information 👋
 
