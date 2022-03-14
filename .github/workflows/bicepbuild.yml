@@ -11,9 +11,17 @@ jobs:
     # The type of runner that the job will run on
     runs-on: windows-latest
     steps:
-    - name: Sparse Checkout
-  # You may pin to the exact commit or the version.
-  # uses: gogaille/sparse-checkout@3114de9b3cf84c0829fe84222d8ae8d806fbc794
-    - uses: gogaille/sparse-checkout@v0.1
+    # This first step takes the code within the Repo and pulls it into the workspace
+    - uses: actions/checkout@v2
+    # We install the latest version of Octopus CLI
+    - uses: OctopusDeploy/install-octopus-cli-action@v1.1.8
+    
+    
+    - name: Azure CLI Action
+      uses: Azure/cli@v1
       with:
-        patterns: '2022/bicepoctopus/Bicep-Storage-Template'
+        inlineScript:  |
+            az bicep build –file /2022/bicepoctopus/Bicep-Storage-Template/storage.bicep –outfile ./storage.json
+
+    
+    
