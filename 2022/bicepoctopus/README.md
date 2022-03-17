@@ -2,9 +2,7 @@
 
 Below are a bunch of resources that will help you if you are looking to learn more or try out this demo yourself. 
 
-🐶 You can find the OctoPetShop source code [here](https://www.github.com/octopussamples/octopetshop). 
-
-🐙 If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-362/).  You will have read access to this environment to browse around. 
+🐙 If you want to see the runbook process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-362/).  You will have read access to this environment to browse around. 
 
 ✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2022/superpowerscombine/public-when-super-power-combine.pptx)
 
@@ -18,12 +16,11 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 ## Azure ☁️
 - [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004737)
-- [Start an Azure DevOps trial](https://azure.microsoft.com/services/devops/?WT.mc_id=AZ-MVP-5004737)
 
 ## Azure Bicep 💪
-- View equivalent JSON and BIcep files side by side - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
+- View equivalent JSON and Bicep files side by side - [Bicep Playground](https://bicepdemo.z22.web.core.windows.net/)
 - [MS Learn - Introduction to Infrastructure as code using Bicep](https://docs.microsoft.com/learn/modules/introduction-to-infrastructure-as-code-using-bicep/?WT.mc_id=AZ-MVP-5004737)
-- [Azure Bicep roadmap](https://github.com/Azure/bicep/projects?query=is%3Aopen)
+- [Azure Bicep Roadmap](https://github.com/Azure/bicep/projects?query=is%3Aopen)
 
 ## Contact Information 👋
 
