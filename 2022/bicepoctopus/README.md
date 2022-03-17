@@ -4,7 +4,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 🐙 If you want to see the runbook process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-362/).  You will have read access to this environment to browse around. 
 
-✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2022/superpowerscombine/public-when-super-power-combine.pptx)
+✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2022/bicepoctopus/CombineAzureBicepandOctopusDeploy_Public.pptx)
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start)
