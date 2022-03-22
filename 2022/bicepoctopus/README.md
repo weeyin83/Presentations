@@ -6,7 +6,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 ✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2022/bicepoctopus/CombineAzureBicepandOctopusDeploy_Public.pptx)
 
-💪 If you are looking for a copy of the Azure Bicep templates that I used during the presentation you can find them [here](https://github.com/weeyin83/Presentations/tree/main/2022/bicepoctopus/Templates).  And you can find the deployment code I used [here](https://github.com/weeyin83/Presentations/blob/main/2022/bicepoctopus/commands.md. 
+💪 If you are looking for a copy of the Azure Bicep templates that I used during the presentation you can find them [here](https://github.com/weeyin83/Presentations/tree/main/2022/bicepoctopus/Templates).  And you can find the deployment code I used [here](https://github.com/weeyin83/Presentations/blob/main/2022/bicepoctopus/commands.md). 
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start)
