@@ -1,23 +1,29 @@
 
 ## Transform Bicep template to ARM Template
+```powershell
 az bicep build --file .\1storage.bicep
-
+```
 
 ## Deploy Bicep template to Azure
+```powershell
 New-AzResourceGroupDeployment -Name StorageDeployment -resourceGroupName SarahBicepDemos -TemplateFile 1storage.bicep -storageAccountName "sarahstoragedemo"
-
+```
 ## Build out the second Bicep template
+```powershell
 New-AzResourceGroupDeployment -Name StorageDeploymentv2 -resourceGroupName SarahBicepDemos -TemplateFile 2storage.bicep
-
+```
 ## Build out the second template but have it fail
+```powershell
 New-AzResourceGroupDeployment -Name StorageDeploymentv2 -resourceGroupName SarahBicepDemos -TemplateFile 2storage.bicep -storageAccountType "Standrd_Local"
-
+```
 ## Pack the templates into ZIP file ready for use with Octopus Deploy
+```powershell
 octo pack --id="StorageTemplate" --format="zip" --version="0.0.1" --basePath="Templates" --overwrite
-
+```
 ## Upload the Zip file to Octopus Deploy
+```powershell
 octo push --package="StorageTemplate.0.0.1.zip" --server="https://webinar.octopus.app" --apiKey="$OCTOPUSSERVERAPIKEY" --space="Bicep-Demo"
-
+```
 
 ## Below is the code used within the Octopus Deploy runbook
 
@@ -30,7 +36,7 @@ octo push --package="StorageTemplate.0.0.1.zip" --server="https://webinar.octopu
 
 
 ## Create Resource Group Step Source Code
-```powershell
+```bash
 az group create -l $OctopusParameters["Azure_Location_Abbr"] -n $OctopusParameters["Azure_Environment_ResourceGroup_Name"]
 ```
 ## Deploy Bicep template Step Source Code
@@ -57,17 +63,19 @@ New-AzResourceGroupDeployment -Name $deploymentName -ResourceGroupName $OctopusP
 ##
 
 ### Deploy the Nested OctoPetShop Bicep templates from your local machine
-
+```powershell
 cd "Nested-OctoPetShop"
 
 New-AzResourceGroupDeployment -Name OctoPetShop -ResourceGroupName SarahBicepDemos -TemplateFile octopetshop.bicep -planName octoPetASP -planSku S1 -productwebSiteName octopetproduct -shoppingwebSiteName octopetshopping -frontwebSiteName octopetfront -startFWIpAddress 0.0.0.0 -endFWIpAddress 0.0.0.0 -databaseName octopetdb -sqlServerName octopetsql -sqlAdministratorLogin octopetadmin -sqlAdministratorLoginPassword $sqlpassword
-
+```
 ## Pack the templates into ZIP file ready for use with Octopus Deploy
+```powershell
 octo pack --id="OctoBicepFiles" --format="zip" --version="0.0.1" --basePath="Nested-OctoPetShop" --overwrite
-
+```
 ## Upload the Zip file to Octopus Deploy
+```powershell
 octo push --package="OctoBicepFiles.0.0.1.zip" --server="https://webinar.octopus.app" --apiKey="$OCTOPUSSERVERAPIKEY" --space="Bicep-Demo"
-
+```
 
 ## Octopus Code - Nested OctoPetShop
 ##
@@ -90,8 +98,9 @@ octo push --package="OctoBicepFiles.0.0.1.zip" --server="https://webinar.octopus
 
 ## Create Resource Group Step Source Code
 
+```bash
 az group create -l $OctopusParameters["Azure_Location_Abbr"] -n $OctopusParameters["Azure_Environment_ResourceGroup_Name"]
-
+```
 ## Deploy Bicep template Step Source Code
 
 
