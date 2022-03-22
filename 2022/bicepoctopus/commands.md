@@ -24,9 +24,9 @@ octo push --package="StorageTemplate.0.0.1.zip" --server="https://webinar.octopu
 
 ### Create Octopus Variables
 ## 
-Azure_StorageAccount_Name
-Azure_Location_Abbr
-Azure_Environment_ResourceGroup_Name
+* Azure_StorageAccount_Name
+* Azure_Location_Abbr
+* Azure_Environment_ResourceGroup_Name
 
 
 ## Create Resource Group Step Source Code
@@ -72,6 +72,21 @@ octo push --package="OctoBicepFiles.0.0.1.zip" --server="https://webinar.octopus
 ## Octopus Code - Nested OctoPetShop
 ##
 
+### Create Octopus Variables
+## 
+* Azure_Location_Abbr
+* Azure_Environment_ResourceGroup_Name
+* planName
+* planSku
+* ProductService.Name
+* ShoppingCartService.Name
+* WebApp.Name
+* startFWIpAddress
+* endFWIpAddress
+* Database.Name
+* Database.Server
+* Database.Admin.Username
+* Database.Admin.Password
 
 ## Create Resource Group Step Source Code
 
