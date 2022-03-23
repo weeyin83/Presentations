@@ -20,9 +20,9 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 
 ## Octopus Deploy 🐙
-- [Start a trial with Octopus Deploy](https://octopus.com/start)
+- [Start a trial with Octopus Deploy](https://octopus.com/start?utm_campaign=githubactionswebinar&utm_medium=webinar&utm_source=sarah)
 - [GitHub Action Workflow Generator](https://production.githubactionworkflows.com/index.html)
-- [GitHub Actions Documentation](https://octopus.com/docs/packaging-applications/build-servers/github-actions)
+- [GitHub Actions Documentation](https://octopus.com/docs/packaging-applications/build-servers/github-actions?utm_campaign=githubactionswebinar&utm_medium=webinar&utm_source=sarah)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
 
 ## Contact Information 👋
