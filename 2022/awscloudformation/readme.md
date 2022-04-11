@@ -3,21 +3,21 @@
 
 Below are a bunch of resources that will help you if you are looking to learn more or try out this demo yourself. 
 
-🐶 You can find the OctoPetShop source code here 
+📄 You can find the AWS CloudFormation templates that I walked through [here]
 
 🐙 If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-322/).  You will have read access to this environment to browse around. 
 
-✨ If you are looking for a copy of the presentation you can download it 
+✨ If you are looking for a copy of the presentation you can download it [here]
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start?utm_campaign=awscloudformation&utm_medium=webinar&utm_source=sarah)
 - [Join our Slack community](https://octopus.com/slack?utm_campaign=awscloudformation&utm_medium=webinar&utm_source=sarah) 
-- [From Zero to Octopus hero - blog series](https://octopus.com/blog/zero-to-octopus-hero-part-1?utm_campaign=awscloudformation&utm_medium=webinar&utm_source=sarah)
-- [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
-- [Free Tools from Octopus Deploy](https://octopus.com/freetools?utm_campaign=superpowerscombine&utm_medium=event&utm_source=sarah)
+- [Traditional runbooks versus Octopus runbooks](https://octopus.com/blog/traditional-runbooks-vs-octopus-runbooks?utm_campaign=awscloudformation&utm_medium=webinar&utm_source=sarah)
 
 
-## AWS
+## AWS ☁️
+- [Start a free AWS trial](https://aws.amazon.com/free/)
+- [Getting started with AWS CloudFormation](https://aws.amazon.com/cloudformation/getting-started/)
 
 
 ## Contact Information 👋
