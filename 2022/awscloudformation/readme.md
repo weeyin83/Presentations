@@ -5,7 +5,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 📄 You can find the AWS CloudFormation templates that I walked through [here](https://github.com/weeyin83/Presentations/tree/main/2022/awscloudformation/templates)
 
-🐙 If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-322/).  You will have read access to this environment to browse around. 
+🐙 If you want to see the runbook process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-322/).  You will have read access to this environment to browse around. 
 
 
 ## Octopus Deploy 🐙
