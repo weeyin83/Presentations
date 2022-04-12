@@ -3,11 +3,10 @@
 
 Below are a bunch of resources that will help you if you are looking to learn more or try out this demo yourself. 
 
-📄 You can find the AWS CloudFormation templates that I walked through [here]
+📄 You can find the AWS CloudFormation templates that I walked through [here](https://github.com/weeyin83/Presentations/tree/main/2022/awscloudformation/templates)
 
 🐙 If you want to see the deployment process within Octopus Deploy, you can do so [here](https://webinar.octopus.app/app#/Spaces-322/).  You will have read access to this environment to browse around. 
 
-✨ If you are looking for a copy of the presentation you can download it [here]
 
 ## Octopus Deploy 🐙
 - [Start a trial with Octopus Deploy](https://octopus.com/start?utm_campaign=awscloudformation&utm_medium=webinar&utm_source=sarah)
