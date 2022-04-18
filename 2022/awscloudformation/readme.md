@@ -17,6 +17,7 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 ## AWS ☁️
 - [Start a free AWS trial](https://aws.amazon.com/free/)
 - [Getting started with AWS CloudFormation](https://aws.amazon.com/cloudformation/getting-started/)
+- [AWS CloudFormation community](https://github.com/aws-cloudformation)
 
 
 ## Contact Information 👋
