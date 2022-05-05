@@ -9,11 +9,11 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 💪 If you are looking for a copy of the Azure Bicep templates that I used during the presentation you can find them [here](https://github.com/weeyin83/Presentations/tree/main/2022/bicepoctopus/Templates).  And you can find the deployment code I used [here](https://github.com/weeyin83/Presentations/blob/main/2022/bicepoctopus/commands.md). 
 
 ## Octopus Deploy 🐙
-- [Start a trial with Octopus Deploy](https://octopus.com/start)
-- [Join our Slack community](https://www.octopus.com/slack) 
-- [From Zero to Octopus hero - blog series](https://octopus.com/blog/zero-to-octopus-hero-part-1)
+- [Start a trial with Octopus Deploy](https://octopus.com/start?utm_campaign=bicepoctopus&utm_medium=event&utm_source=sarah)
+- [Join our Slack community](https://www.octopus.com/slack?utm_campaign=bicepoctopus&utm_medium=event&utm_source=sarah) 
+- [From Zero to Octopus hero - blog series](https://octopus.com/blog/zero-to-octopus-hero-part-1?utm_campaign=bicepoctopus&utm_medium=event&utm_source=sarah)
 - [Octopus Deploy YouTube channel](https://www.youtube.com/octopusdeploy)
-- [Free Tools from Octopus Deploy](https://octopus.com/freetools)
+- [Free Tools from Octopus Deploy](https://octopus.com/freetools?utm_campaign=bicepoctopus&utm_medium=event&utm_source=sarah)
 - [Trigger an Octopus RunBook with an Elgato Streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_source=superpowerstalk&utm_medium=github&utm_campaign=biceptalk&utm_id=elgatooctopus)
 
 ## Azure ☁️
