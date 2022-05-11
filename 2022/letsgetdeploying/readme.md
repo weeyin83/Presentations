@@ -16,8 +16,11 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 - [Free Tools from Octopus Deploy](https://octopus.com/freetools/?utm_campaign=letsgetdeploying&utm_medium=event&utm_source=sarah)
 - [Trigger an Octopus Deploy runbook using an Elgato streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_campaign=speaking&utm_medium=usergroup&utm_source=github)
 
-## Microsoft Azure
-- 
+## Azure Bicep
+- [Build your first Azure Bicep template](https://youtu.be/yTMYp2cR_Bg)
+- [Microsoft Learn Module](https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737)
+- [Azure Bicep Docs](https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737)
+- [Azure Bicep & Octopus Deploy Runbooks](https://youtu.be/_SBnso7F-z0)
 
 
 ## Contact Information 👋
