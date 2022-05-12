@@ -22,9 +22,12 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 
 Let's stay in touch! 
 
+### Sarah Lean
 - Connect with Sarah on Twitter - [@Techielass](https://twitter.com/techielass)
 - Connect with Sarah on [LinkedIn](https://in.linkedin.com/in/sazlean)
 - [Subscribe to Sarah's blog](https://www.techielass.com/newsletter)
+
+### Thomas Maurer
 
 - Connect with Thomas on Twitter - [@ThomasMaurer](https://twitter.com/ThomasMaurer)
 - Connect with Thomas on [LinkedIn](https://linkedin.com/in/thomasmaurer2/)
