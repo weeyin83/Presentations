@@ -14,7 +14,8 @@ Below are a bunch of resources that will help you if you are looking to learn mo
 - [Trigger an Octopus Deploy runbook using an Elgato streamdeck](https://www.techielass.com/trigger-an-octopus-deploy-runbook-using-an-elgato-streamdeck/?utm_campaign=speaking&utm_medium=usergroup&utm_source=github)
 
 ## Azure Arc
-
+- [Azure Arc Jumpstart](https://azurearcjumpstart.io/)
+- [Azure Arc Overview](https://docs.microsoft.com/azure/azure-arc/overview?WT.mc_id=AZ-MVP-5004737)
 
 
 ## Contact Information 👋
