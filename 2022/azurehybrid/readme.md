@@ -26,7 +26,7 @@ Find out more about Windows Admin Centre
 - [Overview of Azure Policy](https://docs.microsoft.com/azure/governance/policy/overview?WT.mc_id=modinfra-14802-salean)
 - [Built-in policy definitions for Azure Arc enabled servers - Azure Arc](https://docs.microsoft.com/azure/azure-arc/servers/policy-reference?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 - [Azure Unblogged - chatting to the product team about the product and roadmap](https://channel9.msdn.com/Shows/IT-Ops-Talk/Azure-Unblogged-Azure-Policy?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
-- 
+
 ## Azure Application Gateway
 - [Microsoft Learn: Load balancer your web site traffic with Application Gateway](https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/)
 - [Application Gateway Documentation](https://docs.microsoft.com/azure/application-gateway/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
@@ -35,8 +35,6 @@ Find out more about Windows Admin Centre
 - [Microsoft Learn: Enhance your service availability and data locality by using Azure Traffic Manager](https://docs.microsoft.com/learn/modules/distribute-load-with-traffic-manager/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 - [Azure Traffic Manager Documentation](https://docs.microsoft.com/azure/traffic-manager/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 
-## Azure Front Door
-- [Azure Front Door Documentation](https://docs.microsoft.com/azure/frontdoor/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 ## Patterns and Practices
 Learn from others experience of adoption of cloud within their IT strategy:
 - [Azure Architecture Center](https://docs.microsoft.com/en-gb/azure/architecture/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
@@ -47,7 +45,6 @@ Work towards Microsoft certifications using free training resources on Microsoft
 - [Understand the different Microsoft certification paths](https://aka.ms/certificationjourney)
 - [Free Microsoft Learn learning paths](https://docs.microsoft.com/learn/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 - [Glasgow Azure User Group](https://www.gaug.co.uk)
-- [Architect and optimize your internet traffic with Azure routing preference](https://azure.microsoft.com/blog/architect-and-optimize-your-internet-traffic-with-azure-routing-preference/?ocid=AID3023451&WT.mc_id=AZ-MVP-5004737)
 
 ## Training Days
 Attend free training day run by Microsoft to help learn and ask questions: 
