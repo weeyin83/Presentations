@@ -4,7 +4,11 @@
 Below are a bunch of resources that will help you if you are looking to learn more or try out this demo yourself. 
 
 ## Azure
-- [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004737)
+- [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004165)
+
+## Azure Stack HCI
+- [Arc-enabled VM management](https://learn.microsoft.com/azure-stack/hci/manage/azure-arc-enabled-virtual-machines?WT.mc_id=AZ-MVP-5004165)
+
 
 
 ## Contact Information 👋
