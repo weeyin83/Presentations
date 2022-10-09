@@ -1,12 +1,12 @@
 
-# Learn it all 
+# Learn it all 📘
 
 Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I appreciate the support.   Below are a list of resources for you to further learn about Azure Stack HCI.   Do reach out to us if you have any questions. 
 
-## Azure
+## Azure ☁️
 - [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004165)
 
-## Azure Stack HCI
+## Azure Stack HCI 💻
 - [Azure Stack HCI Foundation Learning Path](https://learn.microsoft.com/training/paths/azure-stack-hci-foundations/?WT.mc_id=AZ-MVP-5004165)
 - [Operate and maintain Azure Stack HCI](https://learn.microsoft.com/training/paths/operate-maintain-azure-stack-hci/?WT.mc_id=AZ-MVP-5004165)
 - [Azure Stack HCI hands on labs](https://github.com/DellGEOS/AzureStackHOLs)
@@ -19,14 +19,9 @@ Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I
 
 Let's stay in touch! 
 
-- Connect with Sarah on Twitter
-    - Sarah Lean - [@Techielass](https://twitter.com/techielass)
-- Connect with Sarah on LinkedIn
-    - [Sarah Lean](https://in.linkedin.com/in/sazlean)
+- Connect with Sarah on Twitter - [@Techielass](https://twitter.com/techielass)
+- Connect with Sarah on [LinkedIn](https://in.linkedin.com/in/sazlean)
 
-
-- Connect with Lisa on Twitter
-    - Lisa Clark - [@Lisaattheedge](https://twitter.com/lisaattheedge)
-- Connect with Lisa on LinkedIn
-    - [Lisa Clark](https://www.linkedin.com/in/lisadawnclark/)
+- Connect with Lisa on Twitter - [@Lisaattheedge](https://twitter.com/lisaattheedge)
+- Connect with Lisa on [LinkedIn](https://www.linkedin.com/in/lisadawnclark/)
 
