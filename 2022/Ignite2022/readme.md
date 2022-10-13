@@ -8,6 +8,8 @@ Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I
 
 ## Azure Stack HCI 
 
+- [Announcements from Ignite 2022](https://techcommunity.microsoft.com/t5/azure-stack-blog/what-s-new-for-azure-stack-hci-at-microsoft-ignite-2022/ba-p/3650949?WT.mc_id=AZ-MVP-5004165)
+
 ### Microsoft Learning Guides
 - [Azure Stack HCI Foundation Learning Path](https://learn.microsoft.com/training/paths/azure-stack-hci-foundations/?WT.mc_id=AZ-MVP-5004165)
 - [Operate and maintain Azure Stack HCI](https://learn.microsoft.com/training/paths/operate-maintain-azure-stack-hci/?WT.mc_id=AZ-MVP-5004165)
