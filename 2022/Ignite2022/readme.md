@@ -10,6 +10,7 @@ Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I
 
 - [Announcements from Ignite 2022](https://techcommunity.microsoft.com/t5/azure-stack-blog/what-s-new-for-azure-stack-hci-at-microsoft-ignite-2022/ba-p/3650949?WT.mc_id=AZ-MVP-5004165)
 - [Deploy Azure Virtual Desktop on Azure Stack HCI](https://techcommunity.microsoft.com/t5/azure-stack-blog/workload-deployment-shouldn-t-be-different-on-cloud-amp-on/ba-p/3650070?WT.mc_id=AZ-MVP-5004165)
+- [What's new in 22H2](https://learn.microsoft.com/azure-stack/hci/whats-new?WT.mc_id=AZ-MVP-5004737)
 - [Announcing Azure Stack HCI dev build 25217 (23H2) for Preview channel](https://techcommunity.microsoft.com/t5/azure-stack-blog/announcing-azure-stack-hci-dev-build-25217-23h2-for-preview/ba-p/3650906?WT.mc_id=AZ-MVP-5004165)
 
 ### Microsoft Learning Guides
