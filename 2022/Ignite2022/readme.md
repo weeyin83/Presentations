@@ -22,6 +22,7 @@ Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I
 
 ### Hands on Labs
 - [Azure Stack HCI hands on labs](https://github.com/DellGEOS/AzureStackHOLs)
+- [Azure Arc Jumpstart HCIBox](https://azurearcjumpstart.io/azure_jumpstart_hcibox/)
 
 ### Blogs by Lisa
 - [3 reasons to choose Dell Technologies Azure Stack HCI](https://lisaattheedge.com/2022/02/23/3-reasons-to-choose-dell-technologies-for-azure-stack-hci/)
