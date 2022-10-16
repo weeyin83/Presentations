@@ -1,7 +1,11 @@
 
 # Learn it all 📘
 
-Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I appreciate the support.   Below are a list of resources for you to further learn about Azure Stack HCI.   Do reach out to us if you have any questions. 
+Thank you so much for attending our session at Microsoft Ignite 2022, Lisa and I appreciate the support.   
+
+If you'd like to grab a copy of our presentation deck than you can do [here](https://github.com/weeyin83/Presentations/blob/main/2022/Ignite2022/AzureStackHCI-ConnectionZone-Lisa-Sarah.pptx).
+
+Below are a list of resources for you to further learn about Azure Stack HCI.   Do reach out to us if you have any questions. 
 
 ## Azure ☁️
 - [Start an Azure trial](https://azure.microsoft.com/free/?WT.mc_id=AZ-MVP-5004165)
