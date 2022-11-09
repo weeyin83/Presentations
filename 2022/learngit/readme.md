@@ -3,7 +3,7 @@
 
 Thank you so much for attending my session, I really appreciate the support.   
 
-If you'd like to grab a copy of our presentation deck than you can do here.
+If you'd like to grab a copy of our presentation deck than you can do [here](https://github.com/weeyin83/Presentations/blob/main/2022/learngit/howmuchgit-public.pptx).
 
 Below are a list of resources for you to further learn about Git.   Do reach out to us if you have any questions. 
 
