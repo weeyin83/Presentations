@@ -1,7 +1,7 @@
 
 # Learn it all 📘
 
-Thank you so much for attending my session, I really appreciate the support.   
+Thank you for joining me in this session today where I went through what Git is and some of the commands that are key to using it as a tool.    
 
 If you'd like to grab a copy of our presentation deck than you can do [here](https://github.com/weeyin83/Presentations/blob/main/2022/learngit/howmuchgit-public.pptx).
 
