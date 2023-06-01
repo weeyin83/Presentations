@@ -24,9 +24,12 @@ These are the links to resources and references I mentioned in my talk:
 #### Microsoft Well-Architected Framework
 #### Azure Advisor
 #### Azure Hybrid Benefit
+- [Tracking Azure Hybrid Benefit using Azure Workbooks](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
 #### Azure Savings Plan for Compute
+- [Azure Savings Dashboard](https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131)
 #### Azure Reservations
 - [Azure Reservation Utilization Alerts](https://learn.microsoft.com/azure/cost-management-billing/costs/reservation-utilization-alerts)
+- [Prepay for Virtual machine software reservations (Azure Marketplace)](https://learn.microsoft.com/azure/cost-management-billing/reservations/buy-vm-software-reservation)
 #### Azure Policy
 #### Microsoft Cloud Adoption Framework
 
