@@ -21,6 +21,14 @@ In this second webinar, you’ll learn how with Azure features and tools you can
 
 These are the links to resources and references I mentioned in my talk:
 
+#### Microsoft Well-Architected Framework
+#### Azure Advisor
+#### Azure Hybrid Benefit
+#### Azure Savings Plan for Compute
+#### Azure Reservations
+- [Azure Reservation Utilization Alerts](https://learn.microsoft.com/azure/cost-management-billing/costs/reservation-utilization-alerts)
+#### Azure Policy
+#### Microsoft Cloud Adoption Framework
 
 
 ### More resources
