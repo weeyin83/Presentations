@@ -38,9 +38,14 @@ These are the links to resources and references I mentioned in my talk:
 - [Azure Reservation Utilization Alerts](https://learn.microsoft.com/azure/cost-management-billing/costs/reservation-utilization-alerts)
 - [Prepay for Virtual machine software reservations (Azure Marketplace)](https://learn.microsoft.com/azure/cost-management-billing/reservations/buy-vm-software-reservation)
 #### Azure Policy
+- [Overview of Azure Policy](https://learn.microsoft.com/azure/governance/policy/overview)
+- [Azure Policy Tagging Policies](https://learn.microsoft.com/azure/azure-resource-manager/management/tag-policies)
 #### Microsoft Cloud Adoption Framework
-
+- [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/azure/cloud-adoption-framework/)
+- [Azure Enablement Show | Cloud Adoption Framework](https://www.youtube.com/playlist?list=PLbjernQTVXit6OYC9sJxTKx9-GvYs99Nk)
 
 ### More resources
+- [Azure Advisor Alerts - Create alerts when new recommendations are made](https://youtu.be/Clo1LYToIiE)
+- [Azure Advisor Score](https://www.youtube.com/watch?v=ZvenYdaXOL8)
 
 Thank you for listening to my talk and checking out the resources.
