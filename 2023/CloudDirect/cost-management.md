@@ -2,7 +2,7 @@
 
 This is a talk I gave at [Cloud Direct - Finance and Insurance Learn at Lunch Series]([https://app.checkin.no/event/57096/community-tuesday](https://www.clouddirect.net/fsi-learn-at-lunch-series/)).
 
-![Speaker card - Community]()
+![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/2a998697-1147-4d01-8a13-6b410ce36355)
 
 ## Talk Title
 
