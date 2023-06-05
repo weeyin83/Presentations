@@ -47,5 +47,6 @@ These are the links to resources and references I mentioned in my talk:
 ### More resources
 - [Azure Advisor Alerts - Create alerts when new recommendations are made](https://youtu.be/Clo1LYToIiE)
 - [Azure Advisor Score](https://www.youtube.com/watch?v=ZvenYdaXOL8)
+- [Azure Cost CLI - simple command line tool to get the cost of your Azure subscription](https://github.com/mivano/azure-cost-cli)
 
 Thank you for listening to my talk and checking out the resources.
