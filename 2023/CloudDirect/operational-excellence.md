@@ -15,6 +15,10 @@ Many organisations can struggle to remain competitive in the rapidly evolving fi
 In this final webinar of the series, you will learn how the Azure environment can help you rapidly scale up and down according to market developments and customer demand. By joining, you will also learn how Azure can give your business the ability to accelerate and enable innovation.
 
 ## Resources and Links
+#### Optimise Build processess
+#### Operational Health
+- [A practical approach to monitoring](https://www.microsoft.com/en-gb/industry/blog/technetuk/2023/05/03/a-practical-approach-to-monitoring-your-cloud-workloads/)
+- [A Practical Approach to Monitoring Your Cloud Workloads – Example 1: Networking](https://www.microsoft.com/en-gb/industry/blog/technetuk/2023/06/28/a-practical-approach-to-monitoring-your-cloud-workloads-example-1-networking/)
 
 ### References
 
