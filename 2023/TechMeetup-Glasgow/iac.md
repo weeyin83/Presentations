@@ -2,7 +2,7 @@
 
 This is a talk I gave at the [Tech Meetup in Glasgow in July 2023](https://www.eventbrite.co.uk/e/tech-meetup-july-tickets-650189944627?fbclid=IwAR09sLa5CEy5Kue6c41L_hehqH8T0yn465kTTX3Qxxi-up2JxJ1zdjcCUCc).
 
-![Speaker card - Community]()
+![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/7513046b-c4ce-4859-a1ac-517b85619875)
 
 ## Talk Title
 
