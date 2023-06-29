@@ -22,6 +22,11 @@ In this talk we'll walk through what Azure Bicep & Terraform are. We'll talk abo
 
 These are the links to resources and references I mentioned in my talk:
 
+#### Azure Bicep 💪
+- [Build your first Azure Bicep template](https://youtu.be/yTMYp2cR_Bg)
+- [Microsoft Learn Module](https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737)
+- [Azure Bicep Docs](https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737)
+
 
 
 ### More resources
