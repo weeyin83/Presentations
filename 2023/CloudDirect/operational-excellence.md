@@ -35,7 +35,7 @@ In this final webinar of the series, you will learn how the Azure environment ca
 - [Security best practices](https://learn.microsoft.com/azure/cloud-adoption-framework/secure/security-top-10)
 
 ### More resources
-- [Using Azure Export for Terraform to import existing Azure resources into Terraform}(https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
+- [Using Azure Export for Terraform to import existing Azure resources into Terraform](https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
 - [Deploy Azure Resources with Terraform](https://www.techielass.com/deploy-azure-resources-with-terraform/)
 
 Thank you for listening to my talk and checking out the resources.
