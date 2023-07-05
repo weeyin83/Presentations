@@ -10,26 +10,34 @@ This is a talk I gave at the [Tech Meetup in Glasgow in July 2023](https://www.e
 
 ## Abstract
 
-Infrastructure as Code (IaC) is the modern standing way of working with cloud technology, but choosing the right tool for this task can be a headache.
+Infrastructure as Code (IaC) is the modern way of working with cloud technology, but choosing the right tool for this task can be a headache.
 
 Different people and roles within your team may have unique needs or approaches.
 
-In this talk we'll walk through what Azure Bicep & Terraform are. We'll talk about how they compare, showing demos and sharing some best practices.
+In this talk, we'll walk through what Azure Bicep & Terraform are. We'll discuss how they compare, showing demos and sharing some best practices.
 
 ## Resources and Links
 
 ### References
 
-These are the links to resources and references I mentioned in my talk:
+These are the links to the resources and references I mentioned in my talk:
+
+#### Infrastructure as Code 📝
+- [Infrastructure as Code: The benefits and the tools](https://www.techielass.com/infrastructure-as-code-the-benefits-and-the-tools/)
 
 #### Azure Bicep 💪
 - [Build your first Azure Bicep template](https://youtu.be/yTMYp2cR_Bg)
-- [Microsoft Learn Module](https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737)
+- [Fundamentals of Azure Bicep](https://docs.microsoft.com/learn/paths/fundamentals-bicep/?WT.mc_id=AZ-MVP-5004737)
 - [Azure Bicep Docs](https://docs.microsoft.com/azure/azure-resource-manager/bicep/overview?tabs=bicep/?WT.mc_id=AZ-MVP-5004737)
 
-
+#### Terraform 
+- [Introduction to Terraform](https://www.techielass.com/introduction-to-terraform/)
+- [Terraform in 10 minutes](https://youtu.be/h6rkauDhDUM)
+- [Deploy Azure Resources with Terraform](https://www.techielass.com/deploy-azure-resources-with-terraform/)
+- [Using Azure Export for Terraform to import existing Azure resources into Terraform](https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
 
 ### More resources
+- [Terraform Associate certification](https://www.hashicorp.com/certification/terraform-associate)
 
 
 Thank you for listening to my talk and checking out the resources.
