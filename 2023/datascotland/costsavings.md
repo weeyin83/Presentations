@@ -25,6 +25,10 @@ By the end of this session, you will clearly understand how to use Azure Cost Ma
 
 These are the links to resources and references I mentioned in my talk:
 
+### Workbooks to track cost savings
+- [Understand and optimize your Azure costs using the Cost Optimization workbook](https://learn.microsoft.com/azure/advisor/advisor-cost-optimization-workbook)
+- [Tracking Azure Hybrid Benefit using Azure Workbooks](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
+- [FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
 
 
 ### More resources
