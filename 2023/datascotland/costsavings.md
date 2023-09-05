@@ -4,7 +4,7 @@
 
 This is a talk I gave at [Data:Scotland in Edinburgh, September 2023](https://www.datascotland.org/).
 
-![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/19b758e6-9eca-4122-9dcc-3f83fa32b5a5)
+![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/fa1ff6cc-1559-473d-bf5c-bfdf23ced790)
 
 
 ## Talk Title
