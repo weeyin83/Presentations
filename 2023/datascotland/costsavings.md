@@ -1,7 +1,5 @@
 # Controlling Your Azure Costs: Tips, Tricks, and Best Practices
 
-![image](https://github.com/weeyin83/Presentations/assets/13692824/1b3adec8-6d98-4b91-9bb5-921605484b5c)
-
 This is a talk I gave at [Data:Scotland in Edinburgh, September 2023](https://www.datascotland.org/).
 
 ![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/fa1ff6cc-1559-473d-bf5c-bfdf23ced790)
