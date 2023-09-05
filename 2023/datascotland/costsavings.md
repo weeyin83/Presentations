@@ -30,7 +30,6 @@ These are the links to resources and references I mentioned in my talk:
 - [Tracking Azure Hybrid Benefit using Azure Workbooks](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
 - [FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
 
-
 ### More resources
 - [Azure Advisor Alerts - Create alerts when new recommendations are made](https://youtu.be/Clo1LYToIiE)
 - [Azure Advisor Score](https://www.youtube.com/watch?v=ZvenYdaXOL8)
