@@ -2,6 +2,8 @@
 
 This is a talk I gave at [Data:Scotland in Edinburgh, September 2023](https://www.datascotland.org/).
 
+If you attended the session and the event, please do leave your feedback [here](https://aka.ms/eventfeedback), there is a prize draw for everyone that leaves feedback at the end of today's event!
+
 ![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/fa1ff6cc-1559-473d-bf5c-bfdf23ced790)
 
 ## Talk Title
@@ -39,6 +41,10 @@ These are the links to resources and references I mentioned in my talk:
 ### Dev/Test Subscriptions
 - [Azure Enterprise Dev/Test Subscriptions](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0148p/)
 - [MSDN Subscriptions](https://visualstudio.microsoft.com/subscriptions/)
+
+### Infrastructure as Code
+- [Introduction to Terraform](https://www.techielass.com/introduction-to-terraform/)
+- [Introduction to Bicep](https://www.techielass.com/getting-started-with-azure-bicep/)
 
 ### More resources
 - [Azure Advisor Alerts - Create alerts when new recommendations are made](https://youtu.be/Clo1LYToIiE)
