@@ -4,7 +4,6 @@ This is a talk I gave at [Data:Scotland in Edinburgh, September 2023](https://ww
 
 ![Speaker card - Community](https://github.com/weeyin83/Presentations/assets/13692824/fa1ff6cc-1559-473d-bf5c-bfdf23ced790)
 
-
 ## Talk Title
 
 ### Controlling Your Azure Costs: Tips, Tricks, and Best Practices
@@ -21,24 +20,25 @@ By the end of this session, you will clearly understand how to use Azure Cost Ma
 
 These are the links to resources and references I mentioned in my talk:
 
+### Reporting
+- [Understand and optimize your Azure costs using the Cost Optimization workbook](https://learn.microsoft.com/azure/advisor/advisor-cost-optimization-workbook)
+- [Azure Optmization Engine (AOE)](https://github.com/helderpinto/AzureOptimizationEngine)
+- [Tracking Azure Hybrid Benefit using Azure Workbooks](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
+- [FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
+- [Create cost anomaly alerts](https://learn.microsoft.com/azure/cost-management-billing/understand/analyze-unexpected-charges)
+- [Create and manage budgets](https://learn.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
+
+### Discounts
+- [Azure Savings Plans for Compute](https://azure.microsoft.com/pricing/offers/savings-plan-compute/)
+- [Azure Reservations](https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 ### Azure Hybrid Benefit
 - [Azure Hybrid Benefit Calculator](https://azure.microsoft.com/pricing/hybrid-benefit/#calculator)
 - [Azure Hybrid Benefit SQL & SQL Managed Instance](https://learn.microsoft.com/azure/azure-sql/azure-hybrid-benefit?view=azuresql&tabs=azure-portal)
 - [Azure Hybrid Benefit for Windows](https://learn.microsoft.com/windows-server/get-started/azure-hybrid-benefit)
 
-### Discounts
-- [Azure Savings Plans for Compute](https://azure.microsoft.com/pricing/offers/savings-plan-compute/)
-- [Azure Reservations](https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 ### Dev/Test Subscriptions
 - [Azure Enterprise Dev/Test Subscriptions](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0148p/)
 - [MSDN Subscriptions](https://visualstudio.microsoft.com/subscriptions/)
-
-### Reporting
-- [Understand and optimize your Azure costs using the Cost Optimization workbook](https://learn.microsoft.com/azure/advisor/advisor-cost-optimization-workbook)
-- [Tracking Azure Hybrid Benefit using Azure Workbooks](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/tracking-azure-hybrid-benefit-using-azure-workbooks/ba-p/3798857)
-- [FinOps Toolkit](https://github.com/microsoft/finops-toolkit)
-- [Create cost anomaly alerts](https://learn.microsoft.com/azure/cost-management-billing/understand/analyze-unexpected-charges)
-- [Create and manage budgets](https://learn.microsoft.com/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
 
 ### More resources
 - [Azure Advisor Alerts - Create alerts when new recommendations are made](https://youtu.be/Clo1LYToIiE)
