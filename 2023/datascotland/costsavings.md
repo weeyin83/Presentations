@@ -18,7 +18,7 @@ We'll discuss design decisions that can impact your Azure costs, such as choosin
 
 By the end of this session, you will clearly understand how to use Azure Cost Management, design decisions, and Azure Savings Plans to control your Azure costs and optimize your cloud spend. Whether you're a cloud architect, developer, data architect or IT professional, you'll leave with practical insights and actionable strategies for achieving cost savings in your Azure environment.
 
-✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/)
+✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2023/datascotland/Controlling%20Your%20Azure%20Costs%20Tips%2C%20Tricks%2C%20and%20Best%20Practices.pdf)
 
 ## Resources and Links
 
