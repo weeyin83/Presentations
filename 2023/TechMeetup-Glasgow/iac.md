@@ -35,6 +35,7 @@ These are the links to the resources and references I mentioned in my talk:
 - [Terraform in 10 minutes](https://youtu.be/h6rkauDhDUM)
 - [Deploy Azure Resources with Terraform](https://www.techielass.com/deploy-azure-resources-with-terraform/)
 - [Using Azure Export for Terraform to import existing Azure resources into Terraform](https://www.techielass.com/using-azure-export-for-terraform-to-import-existing-azure-resources-into-terraform/)
+- [Terraform for Ops e-book](https://www.terraformforops.com)
 
 ### More resources
 - [Terraform Associate certification](https://www.hashicorp.com/certification/terraform-associate)
