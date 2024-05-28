@@ -39,6 +39,7 @@ These are the links to the resources and references I mentioned in my talk:
 
 ### More resources
 - [Terraform Associate certification](https://www.hashicorp.com/certification/terraform-associate)
+- [Convert Azure Resources to Terraform](https://github.com/Azure/aztfexport)
 
 
 Thank you for listening to my talk and checking out the resources.
