@@ -19,12 +19,17 @@ Get ready to level up your querying game and unlock new possibilities with KQL.
 
 ✨ If you are looking for a copy of the presentation you can download it [here]()
 
+## Queries
+
+If you are looking for the queries that I demo'd you can find them on this page [here](queries.md).
+
+I also have a selection of KQL queries specifically for Azure Arc [here](https://github.com/weeyin83/KQL-queries/blob/main/queries.md). 
+
 ## Resources and Links
 
 These are the links to resources and references I mentioned in my talk:
 
-
-
+- [VS Code Kusto Extension Pack](https://marketplace.visualstudio.com/items?itemName=rosshamish.kuskus-extensions-pack#:~:text=Extensions%20%20%20%20Kuskus%20Kusto%20Extension%20Pack,Document%20%20...%20%201%20more%20rows%20)
 
 
 Thank you for listening to my talk and checking out the resources.
