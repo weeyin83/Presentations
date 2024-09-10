@@ -16,13 +16,13 @@ But wait, there's more! We'll dive headfirst into real-world use cases and pract
 
 Get ready to level up your querying game and unlock new possibilities with KQL.
 
-✨ If you are looking for a copy of the presentation you can download it [here]()
+✨ If you are looking for a copy of the presentation you can download it [here](https://github.com/weeyin83/Presentations/blob/main/2024/kustoquerylanguage/DiveIntotheWorldofKustoQueryLanguage.pdf)
 
 ## Queries
 
 If you are looking for the queries that I demo'd you can find them on this page [here](queries.md).
 
-I also have a selection of KQL queries specifically for Azure Arc [here](https://github.com/weeyin83/KQL-queries/blob/main/queries.md). 
+I also have a selection of KQL queries specifically for Azure Arc [here](https://github.com/weeyin83/KQL-queries/blob/main/queries.md).
 
 ## Resources and Links
 
