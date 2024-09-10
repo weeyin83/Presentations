@@ -1,6 +1,5 @@
 # Dive into the World of Kusto Query Language
 
-
 ## Talk Title
 
 ### Dive into the World of Kusto Query Language
@@ -30,6 +29,8 @@ I also have a selection of KQL queries specifically for Azure Arc [here](https:/
 These are the links to resources and references I mentioned in my talk:
 
 - [VS Code Kusto Extension Pack](https://marketplace.visualstudio.com/items?itemName=rosshamish.kuskus-extensions-pack#:~:text=Extensions%20%20%20%20Kuskus%20Kusto%20Extension%20Pack,Document%20%20...%20%201%20more%20rows%20)
+- [Learn Kusto via the Kusto Detective Agency](https://detective.kusto.io/)
+- [Kusto Query Examples](https://azure.github.io/fta-kusto100knocks/)
 
 
 Thank you for listening to my talk and checking out the resources.
