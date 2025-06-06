@@ -19,9 +19,16 @@ These are the links to the resources and references we mentioned in our talk:
 
 
 
-#### Title
-- [Link 1](URL)
-- [Link 2](URL)
+#### Tools for Sustainability with AI 
+- [Emissions Impact Dashboard](https://www.microsoft.com/en-us/sustainability/emissions-impact-dashboard?msockid=2d8f2d69c7e0623f162338c4c6d86342)
+- [Microsoft Sustainability Manager](https://www.microsoft.com/en-us/sustainability/microsoft-sustainability-manager?msockid=2d8f2d69c7e0623f162338c4c6d86342) 
+- [Data Manager for Energy](https://azure.microsoft.com/en-gb/products/data-manager-for-energy/#get-started)
+- [Copilot for PowerBI](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)
+- [Allegiant Stadium and Las Vegas Raiders drive sustainable operations with Microsoft technology](https://www.microsoft.com/en/customers/story/1733972231635616040-las-vegas-raiders-allegiant-stadium-entertainment-cloud-for-sustainability?msockid=2d8f2d69c7e0623f162338c4c6d86342)
+
+#### Innovative Sustainability with AI 
+- [Avanade Intelligent Garden App](https://intelligentgarden.avanade.com/)
+- [Azure IoT Solutions](https://azure.microsoft.com/en-gb/solutions/iot/)
 
 ### Connect with Speakers
 - [Sarah Lean](https://www.linkedin.com/in/sazlean/)
