@@ -1,4 +1,4 @@
-#Practical AI Resources
+# Practical AI Resources
 
 ## Microsoft Documentation
 
