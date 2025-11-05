@@ -1,10 +1,13 @@
 # Practical AI Resources
 
+![practicalaismall](https://github.com/user-attachments/assets/52cfff23-707b-40e6-9e08-2f5c3d8221d2)
+
 ## Microsoft Documentation
 
 - [Copilot in Azure](https://learn.microsoft.com/azure/copilot/overview)
 - [Microsoft AI Shell](https://learn.microsoft.com/powershell/utility-modules/aishell/overview?view=ps-modules)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [GitHub Copilot for Azure extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
 
 ## Blogs I have written
 
