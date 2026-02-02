@@ -12,6 +12,7 @@
 ## Blogs I have written
 
 - [Install and use Microsoft AI Shell](https://www.techielass.com/install-microsoft-ai-shell-copilot-in-azure/)
+- [Connect Microsoft AI Shell to Azure OpenAI Service](https://www.techielass.com/connect-ai-shell-azure-openai-guide/)
 - [Copilot in Azure](https://www.techielass.com/copilot-in-azure/)
 - [Prompting GPT-5: How to](https://www.techielass.com/prompting-gpt5-guide/)
 
