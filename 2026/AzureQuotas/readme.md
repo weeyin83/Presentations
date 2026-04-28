@@ -4,17 +4,15 @@
 
 ## Microsoft Documentation
 
-- [Copilot in Azure](https://learn.microsoft.com/azure/copilot/overview)
-- [Microsoft AI Shell](https://learn.microsoft.com/powershell/utility-modules/aishell/overview?view=ps-modules)
-- [GitHub Copilot](https://github.com/features/copilot)
-- [GitHub Copilot for Azure extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
+- [Azure Quota Groups](https://learn.microsoft.com/azure/quotas/quota-groups)
+- [Azure Quotas Overviewl](https://learn.microsoft.com/azure/quotas/quotas-overview)
+- [Quota Monitoring and Alerting](https://learn.microsoft.com/azure/quotas/monitoring-alerting)
 
 ## Blogs I have written
 
-- [Install and use Microsoft AI Shell](https://www.techielass.com/install-microsoft-ai-shell-copilot-in-azure/)
-- [Connect Microsoft AI Shell to Azure OpenAI Service](https://www.techielass.com/connect-ai-shell-azure-openai-guide/)
-- [Copilot in Azure](https://www.techielass.com/copilot-in-azure/)
-- [Prompting GPT-5: How to](https://www.techielass.com/prompting-gpt5-guide/)
+- [SKU Restriction in Azure: Best Practices for VMs](https://www.linkedin.com/pulse/sku-restriction-azure-best-practices-vms-sarah-lean-37sme/?trackingId=ZM4bcuUFTa234narINRqEw%3D%3D)
+- [Azure Quota Groups Explained](https://www.linkedin.com/pulse/azure-quota-groups-explained-share-capacity-across-sarah-lean-rorse/?trackingId=ZM4bcuUFTa234narINRqEw%3D%3D)
+- [Understanding Azure Quotas](https://www.linkedin.com/pulse/understanding-azure-quotas-staying-ahead-resource-planning-sarah-lean-jhgle/?trackingId=ZM4bcuUFTa234narINRqEw%3D%3D)
 
 ## Connect with Speaker
 
