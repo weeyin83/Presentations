@@ -1,11 +1,10 @@
 # Azure Quotas explained
 
 
-
 ## Microsoft Documentation
 
 - [Azure Quota Groups](https://learn.microsoft.com/azure/quotas/quota-groups)
-- [Azure Quotas Overviewl](https://learn.microsoft.com/azure/quotas/quotas-overview)
+- [Azure Quotas Overview](https://learn.microsoft.com/azure/quotas/quotas-overview)
 - [Quota Monitoring and Alerting](https://learn.microsoft.com/azure/quotas/monitoring-alerting)
 
 ## Blogs I have written
