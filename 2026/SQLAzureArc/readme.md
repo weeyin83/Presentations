@@ -3,10 +3,10 @@
 
 ## Microsoft Documentation
 
-- [Extended Security Update Pricing](aka.ms/ESUpricingblog)
-- [Azure Arc Documentation](aka.ms/ArcDocs)
-- [Azure Arc Learn modules](haka.ms/LearnHybridArc)
-- [Azure Arc Jumpstart](aka.ms/AzureArcJumpstart)
+- [Extended Security Update Pricing](https://aka.ms/ESUpricingblog)
+- [Azure Arc Documentation](https://aka.ms/ArcDocs)
+- [Azure Arc Learn modules](https://haka.ms/LearnHybridArc)
+- [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
 
 ## Azure Arc Dashboards
 - [Arc Insights PBI Dashboards](https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Dashboards%20Powered%20by%20Jumpstart&fs=true)
