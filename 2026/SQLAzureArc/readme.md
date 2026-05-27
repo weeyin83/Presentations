@@ -4,6 +4,7 @@
 ## Microsoft Documentation
 
 - [Extended Security Update Pricing](https://aka.ms/ESUpricingblog)
+- [Azure Arc Pricing](https://azure.microsoft.com/pricing/details/azure-arc/core-control-plane/)
 - [Azure Arc Documentation](https://aka.ms/ArcDocs)
 - [Azure Arc Learn modules](https://haka.ms/LearnHybridArc)
 - [Azure Arc Jumpstart](https://aka.ms/AzureArcJumpstart)
