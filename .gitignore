@@ -1,6 +1,32 @@
 # Ignore Git here
 .git
 
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Office temporary / lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Logs
+*.log
+
+# Local secrets / env
+.env
+.env.*
+!.env.example
 
 # But not these files...
 !.gitignore
