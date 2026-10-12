@@ -1,0 +1,32 @@
+{
+  "name": "sarah-lean-presentations",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "predev": "node scripts/prepare-assets.mjs",
+    "dev": "astro dev --host 0.0.0.0",
+    "validate": "node scripts/validate-content.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "astro check",
+    "prebuild": "node scripts/prepare-assets.mjs",
+    "build": "npm run validate && astro build && node scripts/verify-build.mjs",
+    "preview": "astro preview --host 0.0.0.0",
+    "test:browser": "playwright test"
+  },
+  "dependencies": {
+    "@fontsource-variable/public-sans": "^5.3.0",
+    "astro": "^7.3.8",
+    "@lucide/astro": "^1.55.0",
+    "entities": "^7.0.0",
+    "marked": "^18.1.0",
+    "sanitize-html": "^2.17.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "@astrojs/check": "^0.9.4",
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.3"
+  }
+}

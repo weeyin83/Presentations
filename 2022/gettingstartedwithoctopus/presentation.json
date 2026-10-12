@@ -1,0 +1,10 @@
+{
+  "id": "2022-gettingstartedwithoctopus",
+  "title": "Getting started with Octopus Deploy",
+  "event": "Ladies of Code",
+  "date": "2022-05-24",
+  "topics": ["GitHub Actions", "Octopus Deploy", "CI/CD"],
+  "documents": [
+    "2022/gettingstartedwithoctopus/readme.md"
+  ]
+}

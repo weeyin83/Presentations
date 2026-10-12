@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { loadCatalog } from '../lib/catalog.mjs';
+import { ArrowRight, MapPin } from '@lucide/astro';
+const { presentations } = loadCatalog();
+const events = [...new Set(presentations.map((talk) => talk.event).filter(Boolean))].sort();
+---
+<Layout title="Events" description="Browse Sarah Lean's presentation resources by confirmed conference and community event." active="events">
+  <main id="main" class="container browse-main"><p class="eyebrow">BROWSE THE LIBRARY</p><h1>Events</h1><p class="intro-copy">Conference and community events named in the presentation resources.</p><div class="browse-list">{events.map((event) => { const talks = presentations.filter((talk) => talk.event === event); return <a class="browse-row" href={`/?event=${encodeURIComponent(event!)}`}><MapPin size={21} aria-hidden="true" /><span><strong>{event}</strong><small>{[...new Set(talks.map((talk) => talk.year))].join(', ')}</small></span><span class="browse-count">{talks.length} {talks.length === 1 ? 'presentation' : 'presentations'}</span><ArrowRight size={18} aria-hidden="true" /></a>; })}</div></main>
+</Layout>

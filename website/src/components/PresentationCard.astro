@@ -1,0 +1,36 @@
+---
+import { ArrowRight, FileDown, BookOpen, Code, Leaf, Database, Cloud, Brain, Workflow, GitPullRequest, GitBranch, Banknote } from '@lucide/astro';
+interface Props { presentation: any; }
+const { presentation: talk } = Astro.props;
+const topicText = [talk.title, talk.folder, ...talk.topics].join(' ');
+const image = talk.topics.includes('Azure Arc') ? '/archive/images/arc.png' : talk.topics.includes('Azure Migrate') ? '/archive/images/azuremigrateicon.png' : /octopus/i.test(topicText) ? '/archive/images/octopusdeploy.svg' : null;
+const Icon = /\bai\b|artificial intelligence|machine learning|github copilot/i.test(topicText) ? Brain
+  : talk.topics.includes('Sustainability') ? Leaf
+  : /github\s*actions/i.test(topicText) ? Workflow
+  : /github/i.test(topicText) ? GitPullRequest
+  : /\bgit\b|learngit|howmuchgit/i.test(topicText) ? GitBranch
+  : /\bcosts?\b|\bspend(?:ing)?\b|\bfinops\b|\bsavings?\b|\bbudget(?:s|ing)?\b/i.test(topicText) ? Banknote
+  : talk.topics.some((topic: string) => ['Bicep', 'Azure Bicep', 'Terraform', 'Infrastructure as Code'].includes(topic)) ? Code
+  : talk.topics.includes('Kusto Query Language') ? Database
+  : talk.topics.includes('Azure') ? Cloud : BookOpen;
+const excerpt = talk.description.length > 155 ? `${talk.description.slice(0, 152).replace(/\s+\S*$/, '')}...` : talk.description;
+const href = `/presentations/${talk.id}/`;
+---
+<article class="presentation-card" data-id={talk.id}>
+  <div class="card-top">
+    <span class:list={['topic-icon', { 'topic-green': talk.topics.includes('Sustainability') }]}>
+      {image ? <img src={image} width="30" height="30" alt="" loading="lazy" /> : <Icon size={24} aria-hidden="true" />}
+    </span>
+    <span class="card-year">{talk.year}</span>
+  </div>
+  <h3><a href={href}>{talk.title}</a></h3>
+  {excerpt && <p class="card-description">{excerpt}</p>}
+  <div class="tags">{talk.topics.slice(0, 3).map((topic: string) => <span class="tag">{topic}</span>)}</div>
+  <p class="card-event">{talk.event || talk.folder.split('/').slice(1).join('/')}</p>
+  <div class="card-bottom">
+    <a class="card-link" href={href}>View resources <ArrowRight size={16} aria-hidden="true" /></a>
+    <span class="card-formats" aria-label={talk.downloads.length ? `Available formats: ${[...new Set(talk.downloads.map((file: any) => file.type))].join(', ')}` : 'Reference resources'}>
+      {talk.downloads.length ? <><FileDown size={15} aria-hidden="true" />{[...new Set(talk.downloads.map((file: any) => file.type === 'PowerPoint' ? 'PPTX' : 'PDF'))].join(' · ')}</> : <><BookOpen size={15} aria-hidden="true" />Links</>}
+    </span>
+  </div>
+</article>

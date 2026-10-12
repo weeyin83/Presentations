@@ -1,0 +1,10 @@
+{
+  "id": "2023-costsavings",
+  "title": "Controlling Your Azure Costs: Tips, Tricks, and Best Practices",
+  "event": "Data Scotland",
+  "date": "2023-09-08",
+  "topics": ["Azure", "Cost Management", "Microsoft Azure"],
+  "documents": [
+    "2023/datascotland/costsavings.md"
+  ]
+}

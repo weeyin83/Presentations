@@ -1,0 +1,11 @@
+{
+  "id": "2024-kustoquerylanguage",
+  "title": "Dive into the world of Kusto Query Language",
+  "event": "Scottish Summit",
+  "date": "2024-10-19",
+  "topics": ["Kusto Query Language", "KQL", "Microsoft Azure"],
+  "documents": [
+    "2024/kustoquerylanguage/readme.md",
+    "2024/kustoquerylanguage/queries.md"
+  ]
+}

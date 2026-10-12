@@ -1,0 +1,10 @@
+{
+  "id": "2022-windowspackagemanager",
+  "title": "Windows Package Manager",
+  "event": "Bradford Cloud User Group",
+  "date": "2022-03-31",
+  "topics": ["Windows", "Package Manager", "Microsoft Windows"],
+  "documents": [
+    "2022/packagemanagers/README.md"
+  ]
+}

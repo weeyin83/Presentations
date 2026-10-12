@@ -30,3 +30,11 @@ $RECYCLE.BIN/
 
 # But not these files...
 !.gitignore
+
+# Website build and dependencies
+node_modules/
+dist/
+.astro/
+playwright-report/
+test-results/
+website/public/archive/
