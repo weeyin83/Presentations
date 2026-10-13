@@ -1,0 +1,60 @@
+---
+import '@fontsource-variable/public-sans';
+import '../styles/global.css';
+import { ArrowUpRight, Code, Library } from '@lucide/astro';
+interface Props { title: string; description: string; active?: string; noindex?: boolean; }
+const { title, description, active = '', noindex = false } = Astro.props;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site) : undefined;
+const socialImage = Astro.site ? new URL('/archive/images/arc.png', Astro.site) : undefined;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#97ddef" />
+    <title>{title} | Sarah Lean</title>
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
+    {canonical && <link rel="canonical" href={canonical} />}
+    <meta property="og:title" content={`${title} | Sarah Lean`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Sarah Lean · Presentation Resources" />
+    {canonical && <meta property="og:url" content={canonical} />}
+    {socialImage && <meta property="og:image" content={socialImage} />}
+    {socialImage && <meta property="og:image:alt" content="Azure Arc, from the presentation resource archive" />}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={`${title} | Sarah Lean`} />
+    <meta name="twitter:description" content={description} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner container">
+        <a class="brand" href="/" aria-label="Sarah Lean presentation library home">
+          <span class="brand-icon"><Library size={23} aria-hidden="true" /></span>
+          <span><strong>Sarah Lean</strong><span class="brand-subtitle">Presentation resources</span></span>
+        </a>
+        <nav aria-label="Main navigation">
+          <a href="/" aria-current={active === 'library' ? 'page' : undefined}>Library</a>
+          <a href="/events/" aria-current={active === 'events' ? 'page' : undefined}>Events</a>
+          <a href="/archive/" aria-current={active === 'archive' ? 'page' : undefined}>By year</a>
+          <a class="header-blog" href="https://www.techielass.com">Blog <ArrowUpRight size={15} aria-hidden="true" /></a>
+        </nav>
+      </div>
+    </header>
+    <slot />
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div><strong>Sarah Lean</strong><p>Technical talks. Shared knowledge.</p></div>
+        <nav aria-label="Footer navigation">
+          <a href="https://github.com/weeyin83/Presentations"><Code size={16} aria-hidden="true" /> GitHub</a>
+          <a href="https://www.techielass.com">Blog</a>
+          <a href="https://www.youtube.com/techielass">YouTube</a>
+          <a href="https://www.linkedin.com/in/sazlean/">LinkedIn</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

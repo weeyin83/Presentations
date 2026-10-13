@@ -1,0 +1,10 @@
+{
+  "id": "2023-costmanagement",
+  "title": "Finance and Insurance Learn at Lunch Series - How to gain control of your costs and maximise your Azure investment",
+  "event": "Cloud Direct Finance and Insurance Learn at Lunch Series",
+  "date": "2023-07-06",
+  "topics": ["Azure", "Cost Management", "Microsoft Azure"],
+  "documents": [
+    "2023/CloudDirect/cost-management.md"
+  ]
+}

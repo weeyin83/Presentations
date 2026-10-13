@@ -1,0 +1,10 @@
+{
+  "id": "2024-iac",
+  "title": "Infrastructure as Code - A look at Azure Bicep and Terraform ",
+  "event": ".NET Edinburgh Meetup",
+  "date": "2024-05-29",
+  "topics": ["Terraform", "Bicep","Microsoft Azure"],
+  "documents": [
+    "2024/IAC/readme.md"
+  ]
+}

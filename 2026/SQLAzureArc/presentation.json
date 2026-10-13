@@ -1,0 +1,10 @@
+{
+  "id": "2026-sqlazurearc",
+  "title": "Bring Cloud Manageability to SQL Server Anywhere with Azure Arc",
+  "event": "I&C Infrastructure Subgroup May Edition",
+  "date": "2026-05-27",
+  "topics": ["SQL", "Azure Arc", "Microsoft Azure"],
+  "documents": [
+    "2026/SQLAzureArc/readme.md"
+  ]
+}

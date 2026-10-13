@@ -1,0 +1,10 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { loadCatalog } from '../lib/catalog.mjs';
+import { ArrowRight, CalendarDays } from '@lucide/astro';
+const { presentations } = loadCatalog();
+const years = [...new Set(presentations.map((talk) => talk.year))];
+---
+<Layout title="Browse by Year" description="Browse Sarah Lean's archive of presentation slides and technical resources by year." active="archive">
+  <main id="main" class="container browse-main"><p class="eyebrow">BROWSE THE LIBRARY</p><h1>Through the years</h1><p class="intro-copy">The complete archive, from the latest resources to earlier talks.</p><div class="browse-list">{years.map((year) => <a class="browse-row" href={`/?year=${year}`}><CalendarDays size={21} aria-hidden="true" /><span><strong>{year}</strong></span><span class="browse-count">{presentations.filter((talk) => talk.year === year).length} presentations</span><ArrowRight size={18} aria-hidden="true" /></a>)}</div></main>
+</Layout>

@@ -1,0 +1,35 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PresentationCard from '../../components/PresentationCard.astro';
+import { loadCatalog, sourceUrl } from '../../lib/catalog.mjs';
+import { ArrowLeft, ArrowUpRight, Download, CalendarDays, MapPin, Code, Video, BookOpen } from '@lucide/astro';
+export function getStaticPaths() {
+  const { presentations } = loadCatalog();
+  return presentations.map((talk) => ({ params: { id: talk.id }, props: { talk, related: presentations.filter((other) => other.id !== talk.id && other.topics.some((topic: string) => topic !== 'Azure' && talk.topics.includes(topic))).slice(0, 3) } }));
+}
+const { talk, related } = Astro.props;
+const groups = [
+  { title: 'Code & demos', Icon: Code, links: talk.resources.filter((link: any) => /github\.com\/(?!weeyin83\/Presentations|features\/)/i.test(link.url) || /demo|playground|runbook/i.test(link.label)) },
+  { title: 'Videos', Icon: Video, links: talk.resources.filter((link: any) => /youtu\.be|youtube\.com|channel9\.msdn/i.test(link.url)) },
+  { title: 'Related reading', Icon: BookOpen, links: talk.resources.filter((link: any) => /techielass\.com\/[^?#]+|\/blog\/|linkedin\.com\/pulse\//i.test(link.url)) },
+].filter((group) => group.links.length);
+const formatSize = (size: number) => `${(size / 1024 / 1024).toFixed(1)} MB`;
+---
+<Layout title={talk.title} description={talk.description ? talk.description.replace(/\s+/g, ' ').slice(0, 180) : `${talk.title}: presentation resources from Sarah Lean's ${talk.year} archive.`}>
+  <main id="main" class="container detail-main">
+    <a href="/" class="back-link"><ArrowLeft size={16} aria-hidden="true" />Presentation library</a>
+    <header class="detail-heading"><p class="eyebrow">PRESENTATION RESOURCES · {talk.year}</p><h1>{talk.title}</h1><div class="detail-meta"><span><CalendarDays size={17} aria-hidden="true" />{talk.date ? new Date(`${talk.date}T12:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' }) : talk.year}</span>{talk.event && <span><MapPin size={17} aria-hidden="true" />{talk.event}</span>}</div><div class="tags">{talk.topics.map((topic: string) => <a class="tag" href={`/?topic=${encodeURIComponent(topic)}`}>{topic}</a>)}</div></header>
+    <div class="detail-layout">
+      <div class="detail-content">
+        {talk.description && <section class="abstract" aria-labelledby="about-heading"><h2 id="about-heading">About this talk</h2>{talk.description.split('\n\n').map((paragraph: string) => <p>{paragraph}</p>)}</section>}
+        {talk.documents.some((document: any) => document.html.trim()) && <section class="resource-section" aria-labelledby="resources-heading"><h2 id="resources-heading">References &amp; resources</h2>{talk.documents.map((document: any, index: number) => <div class="document-section">{index > 0 && <h3>{document.source.split('/').pop()?.replace(/\.md$/i, '').replace(/[-_]/g, ' ')}</h3>}<div class="prose" set:html={document.html} /><a class="document-source" href={sourceUrl(document.source)}>Original {document.source.split('/').pop()} on GitHub <ArrowUpRight size={14} aria-hidden="true" /></a></div>)}</section>}
+      </div>
+      <aside class="resource-sidebar" aria-label="Downloads and related links">
+        {talk.downloads.length > 0 && <section class="download-panel"><h2>Downloads</h2>{talk.downloads.map((file: any) => <a class="download-link" href={file.url}><Download size={19} aria-hidden="true" /><span><strong>Download {file.type}</strong><small>{file.file.split('/').pop()} · {formatSize(file.size)}</small></span></a>)}</section>}
+        {groups.map(({ title, Icon, links }) => <section class="quick-links"><h2><Icon size={18} aria-hidden="true" />{title}</h2><ul>{links.map((link: any) => <li><a href={link.url}>{link.label}<ArrowUpRight size={13} aria-hidden="true" /></a></li>)}</ul></section>)}
+        <a class="source-note" href={talk.source}>View source folder <ArrowUpRight size={15} aria-hidden="true" /></a>
+      </aside>
+    </div>
+    {related.length > 0 && <section class="related-section" aria-labelledby="related-heading"><h2 id="related-heading">Related presentations</h2><div class="presentation-grid">{related.map((presentation: any) => <PresentationCard presentation={presentation} />)}</div></section>}
+  </main>
+</Layout>
