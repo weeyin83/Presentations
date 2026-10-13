@@ -1,7 +1,7 @@
 {
   "id": "2023-techmeetup-glasgow",
   "title": "Infrastructure as Code - A look at Azure Bicep and Terraform",
-  "event": "Tech Meetup Glasgow",
+  "event": "Tech Meetup in Glasgow",
   "date": "2023-07-06",
   "topics": ["Terraform", "Bicep", "Microsoft Azure"],
   "documents": [
