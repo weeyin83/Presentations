@@ -62,15 +62,15 @@ test('search, empty state, reset and shareable filters', async ({ page }) => {
   await page.locator('#empty-state').getByRole('button', { name: 'Clear filters' }).click();
   await expect(page.locator('.presentation-card:visible')).toHaveCount(48);
   await page.getByLabel('Year', { exact: true }).selectOption('2026');
-  await expect(page.locator('.presentation-card:visible')).toHaveCount(2);
+  await expect(page.locator('.presentation-card:visible')).toHaveCount(3);
   await page.reload();
-  await expect(page.locator('.presentation-card:visible')).toHaveCount(2);
+  await expect(page.locator('.presentation-card:visible')).toHaveCount(3);
 });
 
 test('topics, events and sort controls work together', async ({ page }) => {
   await page.goto('/?topic=Azure%20Arc&year=2026');
-  await expect(page.locator('.presentation-card:visible')).toHaveCount(1);
-  await expect(page.locator('.presentation-card:visible')).toContainText('SQL Server');
+  await expect(page.locator('.presentation-card:visible')).toHaveCount(2);
+  await expect(page.locator('.presentation-card[data-id="2026-sqlazurearc"]:visible')).toHaveCount(1);
   await page.goto('/?event=Tech%20Meetup%20in%20Glasgow');
   await expect(page.locator('.presentation-card:visible')).toHaveCount(1);
   await page.goto('/');
