@@ -1,0 +1,10 @@
+{
+  "id": "2026-skeletons",
+  "title": "Do you have skeletons in the IT closet?",
+  "event": "Microsoft",
+  "date": "2026-10-28",
+  "topics": ["Azure", "Azure Arc", "Microsoft Azure"],
+  "documents": [
+    "2026/skeletons/readme.md"
+  ]
+}
