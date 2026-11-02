@@ -2,6 +2,8 @@
 
 Legacy servers, Azure Arc, hybrid, Extended Security Updates, and the path to modernising
 
+- [Presentation slides (PDF)](Do%20you%20have%20skeletons%20in%20the%20IT%20closet.pdf)
+
 ## 1. Know your deadlines
 - [End of support dates for Windows Server and SQL Server](https://www.microsoft.com/en-gb/windows-server/extended-security-updates)
 - [Windows Server 2016 lifecycle](https://learn.microsoft.com/en-us/lifecycle/products/windows-server-2016)
@@ -43,6 +45,7 @@ Legacy servers, Azure Arc, hybrid, Extended Security Updates, and the path to mo
 ## Azure Arc Dashboards
 - [Arc Insights Power BI Dashboards (Azure Arc Jumpstart)](https://jumpstart.azure.com/azure_jumpstart_drops?drop=Arc%20Insights%20PBI%20Dashboards%20Powered%20by%20Jumpstart&fs=true)
 - [Azure Arc Windows and Linux Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard?utm_source=github&utm_medium=presentation&utm_campaign=skeletons)
+- [Helpful KQL queries for Azure Arc Windows and Linux](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard/tree/main/queries)
 - [Azure Dashboard for SQL Server enabled by Azure Arc](https://github.com/microsoft/sql-server-samples/blob/master/samples/features/azure-arc/dashboard/README.md)
 
 ## Blogs/Videos I have created
